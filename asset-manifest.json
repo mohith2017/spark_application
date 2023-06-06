@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53b28fe8.css",
+    "main.js": "/static/js/main.fe28e4e8.js",
+    "static/media/Direct-Deposit-Icon.png": "/static/media/Direct-Deposit-Icon.150f67f0ebe44116d032.png",
+    "static/media/bg-sidebar-mobile.svg": "/static/media/bg-sidebar-mobile.7608b227c12fb1770b22.svg",
+    "static/media/bg-sidebar-desktop.svg": "/static/media/bg-sidebar-desktop.29f222faedc11eebcd7b.svg",
+    "static/media/icon-thank-you.svg": "/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "index.html": "/index.html",
+    "main.53b28fe8.css.map": "/static/css/main.53b28fe8.css.map",
+    "main.fe28e4e8.js.map": "/static/js/main.fe28e4e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b28fe8.css",
+    "static/js/main.fe28e4e8.js"
+  ]
+}
